@@ -44,4 +44,4 @@ using System.Runtime.InteropServices;
 
 [assembly: AssemblyVersion("0.23.0")]
 [assembly: AssemblyFileVersion("0.23.0")]
-[assembly: AssemblyInformationalVersion("0.23.0-dev00000000000000")]
+[assembly: AssemblyInformationalVersion("0.23.0-JBO")]
